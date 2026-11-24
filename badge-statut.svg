@@ -4,6 +4,5 @@
 	<g>
 		<rect x="0" y="2" width="384" height="32" rx="12" fill="#2e1257" />
 		<text x="192.0" y="18" text-anchor="middle" dominant-baseline="central" font-family="Poppins, 'Segoe UI', Arial, sans-serif" font-size="16" fill="#e3e03a"><tspan font-weight="700">Statut</tspan><tspan> · Toujours en train d'apprendre</tspan></text>
-		<animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 3;0 0;0 0" keyTimes="0;0.6;0.66;0.74;1" dur="5s" repeatCount="indefinite" />
 	</g>
 </svg>
