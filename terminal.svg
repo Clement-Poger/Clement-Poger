@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="659" height="124" viewBox="0 0 659 124" role="img" aria-label="Bonjour, je suis Clément POGER, étudiant passionné par le développement (Jeu vidéo, Web, Logiciels)." xmlns:c2pa="http://c2pa.org/manifest">
 	<defs>
-		<clipPath id="k1"><rect x="58" y="44" height="24" width="0"></rect></clipPath>
-		<clipPath id="k2"><rect x="58" y="72" height="24" width="0"></rect></clipPath>
+		<clipPath id="k1"><rect x="58" y="44" height="24" width="0"><animate attributeName="width" values="0.0;8.4;16.8;25.2;33.6;42.0;50.4;58.8;67.2;75.6;84.0;92.4;100.8;109.2;117.6;126.0;134.4;142.8;151.2;159.6;168.0;176.4;184.8;193.2;201.6;210.0;218.4;226.8;235.2;243.6;252.0;260.4" calcMode="discrete" begin="0.5s" dur="1.4s" fill="freeze" /></rect></clipPath>
+		<clipPath id="k2"><rect x="58" y="72" height="24" width="0"><animate attributeName="width" values="0.0;8.4;16.8;25.2;33.6;42.0;50.4;58.8;67.2;75.6;84.0;92.4;100.8;109.2;117.6;126.0;134.4;142.8;151.2;159.6;168.0;176.4;184.8;193.2;201.6;210.0;218.4;226.8;235.2;243.6;252.0;260.4;268.8;277.2;285.6;294.0;302.4;310.8;319.2;327.6;336.0;344.4;352.8;361.2;369.6;378.0;386.4;394.8;403.2;411.6;420.0;428.4;436.8;445.2;453.6;462.0;470.4;478.8;487.2;495.6;504.0;512.4;520.8;529.2;537.6;546.0;554.4;562.8;571.2" calcMode="discrete" begin="2.1s" dur="2.4s" fill="freeze" /></rect></clipPath>
 	</defs>
 	<rect width="659" height="124" rx="8" fill="#191919" />
 	<text x="16" y="28" font-family="'Fira Code', 'Cascadia Mono', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="14" fill="#00c8e8">presentation_github</text>
@@ -10,9 +10,12 @@
 	<text x="58" y="62" font-family="'Fira Code', 'Cascadia Mono', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="14" fill="#ffffff" textLength="260.4" lengthAdjust="spacing" clip-path="url(#k1)">Bonjour, je suis Clément POGER,</text>
 	<text x="58" y="90" font-family="'Fira Code', 'Cascadia Mono', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="14" fill="#ffffff" textLength="571.2" lengthAdjust="spacing" clip-path="url(#k2)">étudiant passionné par le développement (Jeu vidéo, Web, Logiciels).</text>
 	<rect y="47" width="8" height="17" fill="#d1d5db" x="58">
+		<animate attributeName="x" values="58.0;66.4;74.8;83.2;91.6;100.0;108.4;116.8;125.2;133.6;142.0;150.4;158.8;167.2;175.6;184.0;192.4;200.8;209.2;217.6;226.0;234.4;242.8;251.2;259.6;268.0;276.4;284.8;293.2;301.6;310.0;318.4" calcMode="discrete" begin="0.5s" dur="1.4s" fill="freeze" />
 		<set attributeName="opacity" to="0" begin="2.1s" fill="freeze" />
 	</rect>
 	<rect y="75" width="8" height="17" fill="#d1d5db" x="58" opacity="0">
 		<set attributeName="opacity" to="1" begin="2.1s" fill="freeze" />
+		<animate attributeName="x" values="58.0;66.4;74.8;83.2;91.6;100.0;108.4;116.8;125.2;133.6;142.0;150.4;158.8;167.2;175.6;184.0;192.4;200.8;209.2;217.6;226.0;234.4;242.8;251.2;259.6;268.0;276.4;284.8;293.2;301.6;310.0;318.4;326.8;335.2;343.6;352.0;360.4;368.8;377.2;385.6;394.0;402.4;410.8;419.2;427.6;436.0;444.4;452.8;461.2;469.6;478.0;486.4;494.8;503.2;511.6;520.0;528.4;536.8;545.2;553.6;562.0;570.4;578.8;587.2;595.6;604.0;612.4;620.8;629.2" calcMode="discrete" begin="2.1s" dur="2.4s" fill="freeze" />
+		<animate attributeName="opacity" values="1;0" calcMode="discrete" begin="4.8s" dur="1.4s" repeatCount="indefinite" />
 	</rect>
 </svg>
