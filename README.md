@@ -61,6 +61,7 @@
 <p align="center">
 	<img height="170" src="https://github-readme-stats.vercel.app/api?username=Clement-Poger&show_icons=true&disable_animations=true&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1" alt="Stats GitHub" />
 	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-Poger&layout=compact&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=cbd5e1" alt="Langages les plus utilisés" />
+	<img height="170" src="https://streak-stats.demolab.com/?user=Clement-Poger&theme=blue-navy&hide_border=true&timezone=Europe/Paris&background=0F172A" alt="Statistique générale" />
 </p>
 
 ---
