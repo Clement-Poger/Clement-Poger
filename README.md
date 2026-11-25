@@ -1,10 +1,10 @@
 <p align="center">
-	<img src="header.svg" alt="Bannière de profil" />
+	<img src="./assets/header.svg" alt="Bannière de profil" />
 </p>
 
 <p align="center">
-	<img src="badge-localisation.svg" alt="Localisation : France" />
-	<img src="badge-statut.svg" alt="Statut : Toujours en train d'apprendre" />
+	<img src="./assets/badge-localisation.svg" alt="Localisation : France" />
+	<img src="./assets/badge-statut.svg" alt="Statut : Toujours en train d'apprendre" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ## À propos de moi
 
 <p align="center">
-	<img src="terminal.svg" alt="Bonjour, je suis Clément POGER, étudiant passionné par le développement (Jeu vidéo, Web, Logiciels)." />
+	<img src="./assets/terminal.svg" alt="Bonjour, je suis Clément POGER, étudiant passionné par le développement (Jeu vidéo, Web, Logiciels)." />
 </p>
 
 - **En ce moment :** je construis des projets et j'explore de nouvelles idées
@@ -84,11 +84,11 @@
 ## Contact
 
 <p align="center">
-	<a href="https://github.com/Clement-Poger"><img src="badge-github.svg" alt="GitHub" /></a>
-	<a href="https://www.linkedin.com/in/clement-Poger"><img src="badge-linkedin.svg" alt="LinkedIn" /></a>
-	<a href="mailto:clement.pog@gmail.com"><img src="badge-email.svg" alt="Email" /></a>
+	<a href="https://github.com/Clement-Poger"><img src="./assets/badge-github.svg" alt="GitHub" /></a>
+	<a href="https://www.linkedin.com/in/clement-Poger"><img src="./assets/badge-linkedin.svg" alt="LinkedIn" /></a>
+	<a href="mailto:clement.pog@gmail.com"><img src="./assets/badge-email.svg" alt="Email" /></a>
 </p>
 
 <p align="center">
-	<img src="footer.svg" alt="Bannière de pied de page" />
+	<img src="./assets/footer.svg" alt="Bannière de pied de page" />
 </p>
